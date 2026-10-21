@@ -15,4 +15,4 @@ Durum adımları: Prompt hazır → Test (480p) → Final üretildi → Onayland
 
 Toplam: ~64–68 sn.
 
-Yön sürekliliği: Turan/Türk tarafı kadrajın **solunda**, karşı ordu **sağında** (Sahne 6–8).
+Yön sürekliliği: Turan/Türk tarafı kadrajın **solunda**, karşı ordu **sağında** (Sahne 8). Sahne 6–7'de de bu yönü koru: Sahne 6'daki ordu sola, Sahne 7'deki Türk safı sağa baksın.
