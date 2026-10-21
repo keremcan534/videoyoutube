@@ -38,7 +38,7 @@ Negatif alanı olmayan araçlarda (Runway Gen-4.5, Midjourney Video) "no X" yazm
 ## Süreklilik notları
 
 - Üreticiye her zaman İngilizce promptu yapıştır. Türkçe metin yalnızca anlamak içindir; Türkçe sözcükler görüntüye yazı olarak da sızabilir.
-- **Dönem etiketleri:** Göktürk dönemi (6.–8. yüzyıl) sahnelerinde dönemi promptta belirt. Daha önceki çağlara (Hunlar/Xiongnu, Sakalar) geçen sahneleri "Türk" değil "bozkır halkları" diye etiketle.
+- **Dönem etiketleri:** Hikâye efsanevi bir çağda (Efrasiyab / Alp Er Tunga, Turan) geçiyor; promptlara yüzyıl yazma, "historically inspired" yeterli. Görsel ayrıntıları belgelenmiş en erken Türk dönemine (Göktürk, 552–744) dayandır. "Ancient" tek başına Greko-Romen, "medieval" Avrupa şövalyesi çağrıştırır; yanına "Inner Asian steppe nomads" ekle.
 - **Atlar:** Her sahnede aynı tip olsun: kısa bacaklı, kalın boyunlu, gür yeleli ve kuyruklu bozkır atları. Ahşap iskeletli sert eyer ve üzengi kullan. Arap atı ya da Batı tipi eyer kullanma.
 - **Biniciler:** Diz boyu kuşaklı kaftan, pantolon, yumuşak çizme, sade başlık veya yuvarlak-konik miğfer; kalçada yay kılıfı ve sadak, birkaç dik mızrak. Boynuz, pelerin, sarık veya Avrupa zırhı olmasın.
 - **Coğrafya:** Karlı sivri zirveler Altay veya Tanrı Dağları'na uyar. Ötüken/Orhun Vadisi sahnelerinde dağlar yuvarlak sırtlı, ormanlı yamaçlı ve karsız olsun.

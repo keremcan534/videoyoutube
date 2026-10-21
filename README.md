@@ -7,6 +7,7 @@ Antik Türk bozkırı temalı, yapay zekâ ile üretilen tarihî-epik bir YouTub
 | Yol | İçerik |
 |---|---|
 | `sahne-listesi.md` | Tüm sahnelerin süre, çekim ve durum tablosu |
+| `karakterler.md` | Efrasiyab ve atı için sabit tanım blokları, referans görsel yöntemi |
 | `stil-rehberi.md` | Her sahneye eklenecek ortak stil bloğu, negatif liste, renk paleti, süreklilik notları, kalite kontrol listesi |
 | `sahneler/sahne-NN.md` | Sahne başına: orijinal prompt, çekim özeti, ana prompt, 480p test ön ayarı, üreticiye göre promptlar (Veo 3.1, Gemini Omni, Runway, Kling, Midjourney) |
 | `sahneler/_sablon.md` | Yeni sahne şablonu |
